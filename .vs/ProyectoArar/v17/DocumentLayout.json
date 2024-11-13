@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|c:\\users\\grobles\\source\\repos\\proyectoarar\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|solutionrelative:controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|c:\\users\\grobles\\source\\repos\\proyectoarar\\models\\asignacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|solutionrelative:models\\asignacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|c:\\users\\grobles\\source\\repos\\proyectoarar\\models\\arardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|solutionrelative:models\\arardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|c:\\users\\grobles\\source\\repos\\proyectoarar\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|c:\\users\\grobles\\source\\repos\\proyectoarar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|c:\\users\\grobles\\source\\repos\\proyectoarar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61059008-2C30-423B-99FC-82C3239C57B5}|ProyectoArar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Asignacione.cs",
+              "DocumentMoniker": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Models\\Asignacione.cs",
+              "RelativeDocumentMoniker": "Models\\Asignacione.cs",
+              "ToolTip": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Models\\Asignacione.cs",
+              "RelativeToolTip": "Models\\Asignacione.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:49:37.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T01:26:42.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "Controllers\\AlumnoController.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:52:19.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T00:23:40.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T00:10:25.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArardbContext.cs",
+              "DocumentMoniker": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Models\\ArardbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ArardbContext.cs",
+              "ToolTip": "C:\\Users\\grobles\\source\\repos\\ProyectoArar\\Models\\ArardbContext.cs",
+              "RelativeToolTip": "Models\\ArardbContext.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:56:20.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
